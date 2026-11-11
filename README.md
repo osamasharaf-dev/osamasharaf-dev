@@ -37,7 +37,7 @@ My portfolio is written for people and for AI agents: every page has structured 
 
 ### Stack
 
-<img src="assets/stack.png" alt="AI tools: Claude Code, Claude, ChatGPT, Gemini, Google AI Studio, Cursor, Windsurf, GitHub Copilot. Frontend: React, Next.js, TypeScript, JavaScript, GSAP, Lenis, Tailwind CSS. Backend and data: C#, .NET, ASP.NET Core, EF Core, SQLite, Minimal APIs, JWT, Node.js, REST APIs, Supabase, Firebase. Tools: Vercel, Netlify, Git, GitHub, Figma, Technical SEO, EmailJS." width="100%">
+<img src="assets/stack.png" alt="Frontend: React, Next.js, TypeScript, JavaScript, GSAP, Lenis, Tailwind CSS. Backend: Node.js, Express, REST APIs, JWT, EmailJS. Database: Supabase, Firebase. Tools: VS Code, Postman, Chrome DevTools, Git, GitHub, Figma, Vercel, Netlify, Technical SEO. AI tools: Claude Code, Claude, ChatGPT, Gemini, Google AI Studio, Cursor, Windsurf, GitHub Copilot." width="100%">
 
 ### What I've shipped
 
