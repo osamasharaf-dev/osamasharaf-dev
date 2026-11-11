@@ -17,12 +17,6 @@ Full-Stack Engineer at **Digital Codes For Trading**, Riyadh, since June 2026. F
 
 **Riyadh, Saudi Arabia** · Arabic and English
 
-### Building right now
-
-- **osamasharaf.dev, rebuilt in Next.js** — bilingual, one route per section for SEO, scroll-driven transitions with GSAP and Lenis.
-- **A .NET Web API** — Minimal API with EF Core and SQLite, validation, global exception handling, one-to-many relations and JWT authentication. React front end next.
-- **A React + TypeScript + Firebase store** — payment integration with Moyasar is the last piece.
-
 ### Ask me about
 
 - Scroll-driven storytelling with GSAP, ScrollTrigger and Lenis that still scores well on Core Web Vitals
